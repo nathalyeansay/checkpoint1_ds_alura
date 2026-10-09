@@ -1,3 +1,13 @@
+Sobre o repositório:
+esse repositorio contém:
+dataset original: 'synthetic_coffee_health_10000(in).csv
+notebook do projeto para rodar no colab: 'checkpoint1_alura_data_science.ipynb'
+dataset ajustado de treino e teste: 'X_teste.csv', 'X_treino.csv', 'y_teste.csv', 'y_treino.csv'
+melhor modelo salvo: 'modelo_logistico.pkl' 
+scaler: 'meu_scaler.pkl'
+
+
+
 # checkpoint1_ds_alura
 projeto 1 alura
 
